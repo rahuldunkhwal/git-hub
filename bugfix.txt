@@ -2,4 +2,3 @@ this is bug fix in branch bug-fix.
 
 some more bug fix
 
-2 bug fix
